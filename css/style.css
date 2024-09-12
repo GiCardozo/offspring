@@ -75,14 +75,22 @@ html {
 }
 
 .moreinfo-container {
-    padding: 25px 0;
-    margin: 25px 0;
-    border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
+    background-color: #f9f9f9; 
+    padding: 20px; 
+    margin: 25px 0; 
+    border: 1px solid #ccc; 
+    border-radius: 8px; 
+    text-align: center; 
+    font-size: 18px; 
 }
 
 .moreinfo-container a {
-    text-decoration: none;
     color: black;
-    font-weight: bold;
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.moreinfo-container a:hover {
+    text-decoration: underline;
+    color: gray; 
 }

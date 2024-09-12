@@ -49,4 +49,4 @@ Contribuições são bem-vindas! Se você desejar melhorar este projeto, sinta-s
 Este projeto está licenciado sob a licença MIT.
 
 ## Para acessar
-Para visitar o site finalizado: https://github.com/GiCardozo/offspring.git
+Para visitar o site finalizado: https://offspring-tau.vercel.app/
