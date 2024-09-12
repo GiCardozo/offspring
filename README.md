@@ -43,7 +43,7 @@ Você pode modificar o arquivo `style.css` para personalizar a aparência da pá
 - **CSS3**: Para a estilização e layout.
 
 ## Contribuições
-Contribuições são bem-vindas! Se você desejar melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar
+Contribuições são bem-vindas! Se você desejar melhorar este projeto, sinta-se à vontade para abrir uma *issue* ou enviar.
 
 ## Licença
-Este projeto está licenciado sob a licença MIT
+Este projeto está licenciado sob a licença MIT.
